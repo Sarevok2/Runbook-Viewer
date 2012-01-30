@@ -1,0 +1,5 @@
+C:\VsProjects\RunbookViewer\RunbookViewer\bin\RunbookViewer.dll
+C:\VsProjects\RunbookViewer\RunbookViewer\bin\RunbookViewer.pdb
+C:\VsProjects\RunbookViewer\RunbookViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\VsProjects\RunbookViewer\RunbookViewer\obj\Debug\RunbookViewer.dll
+C:\VsProjects\RunbookViewer\RunbookViewer\obj\Debug\RunbookViewer.pdb

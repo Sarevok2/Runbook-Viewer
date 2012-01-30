@@ -1,0 +1,68 @@
+* { margin:0; padding:0; }
+
+td {padding: 1px;}
+
+button {padding: 1px 3px 1px 3px;}
+
+fieldset {padding: 2px;}
+
+.field-validation-error {color: #ff0000;}
+
+.field-validation-valid{display: none;}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid{display: none;}
+
+.controls{background-color: #dddddd;}
+
+.controls-radio-list li.middle {border-width: 0 0 1px 0; margin-top: 5px; padding-top: 2px;
+    border-style: solid; border-color: gray; }
+   
+.div-float-left {float: left; margin-right: 10px;}
+
+.div-float-right {float: right; margin-left: 10px;}
+
+.job-search-box {max-width: 100px; }
+
+.dateTimeField  {max-width: 80px;}
+
+ul {list-style-type: none; margin: 0 0 0 0;  padding: 0 0 0 0;}
+
+fieldset.controls-fieldset{height: 120px;}
+
+.padding-left{padding-left: 2px;}
+
+li {margin-top: 2px; }
+
+.data-button {margin-top: 10px; min-width: 120px;}
+
+.jobSelectorDropdown {width: 200px;}
+
+.viewingArea {height: 800px; width: 1500px;}
+.uploadFrame {height: 100px; width: 400px; border-style: none;}
+
+.runbookTable {margin: 20px 20px 20px 20px; width: 300px;border-collapse: collapse;}
+.tableCell{border-color: #CCCCCC; background: #EEEEEE; border-bottom-style:solid; border-bottom-width: 1px; border-top-style:solid; border-top-width: 
+                    1px;padding: 4px; max-width: 500px; word-wrap: break-word;}
+th.tableCell {text-align:right;border-left-style: solid; border-left-width: 1px;}
+td.tableCell {border-right-style: solid; border-right-width: 1px;}
+.runbookDiv { margin: 20px 20px 20px 20px; width: auto; height: auto;}
+.fileTransferTable {vertical-align:text-top;}
+th.tableHeader {color: #EEEEEE; text-align:left;background: #444444;}
+th.tableHeaderLeft {border-top-left-radius: 10px 10px;}
+th.tableHeaderRight {border-top-right-radius: 10px 10px;}    
+
+p.uploadNotes {font-size: 14px; margin-bottom: 20px;}     
+.uploadDialogButton {margin-top: 10px; padding-left: 10px; padding-right: 10px;}     
+.uploadList li {margin: 5px 0px 5px 0px;}      
